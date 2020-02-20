@@ -1,0 +1,115 @@
+
+h1 {
+    
+    font-family: 'Yellowtail', cursive;
+    margin-top: 0px;
+    line-height: 30px;
+    margin-bottom: 0px;
+   
+
+}
+p{
+
+  font-size: 10px;
+  margin-left:50px ;
+  margin-top:0px ;
+ 
+}
+
+#logo{
+
+    float: left;
+}
+
+
+
+
+.right-header{
+position: absolute ;
+right: 5px;
+top: 25px;
+
+}
+
+
+img:nth-last-child(2) 
+{
+    margin-left: 10px;
+  
+  }
+
+main h1{
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 10PX;
+    margin-top: 20px;
+}
+
+#date {
+
+    margin-left: 5px  ;
+}
+
+#print{
+
+ float: right;
+ 
+}
+
+#image{
+    float: right;
+}
+
+#text{
+  
+    float: right;
+   
+  
+}
+
+
+#pic{
+width: 100%;
+}
+
+
+main p{
+
+    margin: 0px;
+    margin-left: 10px;
+    line-height: 20px;
+}
+
+.paragraphe {
+
+     margin-top:20px ;
+   font-size: 20px;
+ text-indent: 2em;
+
+}
+
+.container {
+    position: relative;
+    text-align: center;
+  }
+.left {
+    font-size: 25px;
+    line-height: 50px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    text-align: left;
+}
+.right {
+    font-size: 25px;
+    line-height: 50px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    text-align: left;
+}
+.strikeThrough {
+    text-decoration: line-through;
+}
+ul {
+    list-style-type: none;
+}
