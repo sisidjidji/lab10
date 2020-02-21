@@ -113,3 +113,63 @@ main p{
 ul {
     list-style-type: none;
 }
+
+#footer-button{
+
+  float: right;
+   position: absolute ;
+   right: 5px;
+   top: 2050px;
+
+   
+}
+button{
+    background-color: brown;
+    border: 0px;
+    height: 30px;
+    color: white;
+    margin-top: 0px;
+}
+
+footer p{
+    font-size: 16px;
+
+}
+
+#third-h1{
+    float: left;
+    
+}
+#vanessa{
+    float: left;
+}
+
+h4{
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+
+#small-logo{
+ 
+    margin-top: 100px;
+    text-align: center;
+  
+    
+}
+
+#footer-p{
+
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+hr{
+    position: relative;
+    top: 20px;
+    display: block;
+z-index: -2;
+    
+}
+
