@@ -1,4 +1,9 @@
 
+body{
+    width: 960px;
+    margin: auto;
+}
+
 h1 {
     
     font-family: 'Yellowtail', cursive;
@@ -25,9 +30,11 @@ p{
 
 
 .right-header{
-position: absolute ;
+/* position: absolute ;
 right: 5px;
-top: 25px;
+top: 25px; */
+float:right;
+margin-top: 0px;
 
 }
 
@@ -81,8 +88,8 @@ main p{
 
 .paragraphe {
 
-     margin-top:20px ;
-   font-size: 20px;
+     margin-top:10px ;
+   font-size: 15px;
  text-indent: 2em;
 
 }
@@ -93,18 +100,18 @@ main p{
   }
 .left {
     font-size: 25px;
-    line-height: 50px;
+    line-height: 40px;
     position: absolute;
     left: 20px;
-    top: 20px;
+    top: 0px;
     text-align: left;
 }
 .right {
     font-size: 25px;
-    line-height: 50px;
+    line-height: 40px;
     position: absolute;
     right: 20px;
-    top: 20px;
+    top: 0px;
     text-align: left;
 }
 .strikeThrough {
@@ -118,8 +125,8 @@ ul {
 
   float: right;
    position: absolute ;
-   right: 5px;
-   top: 2050px;
+   right: 280px;
+   top: 1500px;
 
    
 }
@@ -154,6 +161,7 @@ h4{
  
     margin-top: 100px;
     text-align: center;
+    border: 2em solid white;
   
     
 }
